@@ -16,20 +16,20 @@ file:![image](///home/junior/Desktop/BeCode_Cls_project/markdown-warm-up/New/ind
 ### -Operating Systems: Linux, Mac OS, Linux/Ubuntu
 
 ## 2. VS Code
-### -Node.js and also comes with Git 
-## -Uses electron frame work (the software does not use Atom)
-## -Listed number one in the list of the best IDEs for 2019
-## -Operating Systems: Linux/Windows/Mac
-## -Plugins can be extended
-## -Cross-platform
+### *Node.js and also comes with Git 
+## *Uses electron frame work (the software does not use Atom)
+## *Listed number one in the list of the best IDEs for 2019
+## *Operating Systems: Linux/Windows/Mac
+## *Plugins can be extended
+## *Cross-platform
 
 ## 3. Brackets
-### -Cross-platform
-### -Live preview
-### -Real Time Updates (without reloading)
-### -PSD lens: exctracts pictures wihtout the need of Photoshop
+### a. Cross-platform
+### b. Live preview
+### c. Real Time Updates (without reloading)
+### d. PSD lens: exctracts pictures wihtout the need of Photoshop
 
-## 4. ![Atom](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Atom-editor.png/300px-Atom-editor.png) 
+## 4. Atom ![Atom](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Atom-editor.png/300px-Atom-editor.png) 
 ### -Teletype that allows you to share on git
 ### -Atom is based Linux/Windows/Mac
 ### -support for plug-ins written in Node.js, and embedded Git Control
