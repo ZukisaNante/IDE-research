@@ -1,4 +1,4 @@
-# IDE Review
+# IDE Review ![IDE](https://s3.amazonaws.com/gs-bot-images/Guides+image/IDE/ide1.JPG)
 * An integrated development environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development. 
 * An IDE normally consists of at least a source code editor, build automation tools, and a debugger. 
 * IDEs are designed to maximize programmer productivity by providing tight-knit components with similar user interfaces. 
@@ -10,7 +10,7 @@ file:![image](///home/junior/Desktop/BeCode_Cls_project/markdown-warm-up/New/ind
 # Here we will discuss a few of the IDEs you can find for web development
 
 ## 1. PhpStorm
--Crossplatform (Linux, Mac OS, Linux/Ubuntu)
+### -Crossplatform (Linux, Mac OS, Linux/Ubuntu)
 ### -Editor for HTML5, JavaScript and PHP
 ### -Js plugins (Node.js)
 ### -Operating Systems: Linux, Mac OS, Linux/Ubuntu
@@ -29,7 +29,7 @@ file:![image](///home/junior/Desktop/BeCode_Cls_project/markdown-warm-up/New/ind
 ### -Real Time Updates (without reloading)
 ### -PSD lens: exctracts pictures wihtout the need of Photoshop
 
-## 4. ![Atom](https://s3.amazonaws.com/gs-bot-images/Guides+image/IDE/ide1.JPG) 
+## 4. ![Atom](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Atom-editor.png/300px-Atom-editor.png) 
 ### -Teletype that allows you to share on git
 ### -Atom is based Linux/Windows/Mac
 ### -support for plug-ins written in Node.js, and embedded Git Control
