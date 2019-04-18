@@ -40,7 +40,7 @@ file:![image](///home/junior/Desktop/BeCode_Cls_project/markdown-warm-up/New/ind
 ### -Teletype that allows you to share on git
 ### -Atom is based Linux/Windows/Mac
 ### -support for plug-ins written in Node.js, and embedded Git Control
-### -Atom is based on Electron (formerly known as Atom Shell), a framework that enables cross-platform desktop applications using Chromium and Node.js
+### -Atom is based on Electron (formerly known as Atom Shell), a framework that enables cross-platform desktop applications - using Chromium and Node.js
 
 # 5. Conlusion
 ## - Our conlusion here is based on the information provided and it highlights the pros and cons of the above IDEs.
