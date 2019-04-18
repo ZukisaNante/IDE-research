@@ -9,13 +9,13 @@ file:![image](///home/junior/Desktop/BeCode_Cls_project/markdown-warm-up/New/ind
 
 # Here we will discuss a few of the IDEs you can find for web development
 
-## 1. PhpStorm
+# 1. PhpStorm
 ### -Crossplatform (Linux, Mac OS, Linux/Ubuntu)
 ### -Editor for HTML5, JavaScript and PHP
 ### -Js plugins (Node.js)
 ### -Operating Systems: Linux, Mac OS, Linux/Ubuntu
 
-## 2. VS Code
+# 2. VS Code
 ### *Node.js and also comes with Git 
 ## *Uses electron frame work (the software does not use Atom)
 ## *Listed number one in the list of the best IDEs for 2019
@@ -23,13 +23,13 @@ file:![image](///home/junior/Desktop/BeCode_Cls_project/markdown-warm-up/New/ind
 ## *Plugins can be extended
 ## *Cross-platform
 
-## 3. Brackets
+# 3. Brackets
 ### a. Cross-platform
 ### b. Live preview
 ### c. Real Time Updates (without reloading)
 ### d. PSD lens: exctracts pictures wihtout the need of Photoshop
 
-## 4. Atom ![Atom](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Atom-editor.png/300px-Atom-editor.png) 
+# 4. Atom ![Atom](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Atom-editor.png/300px-Atom-editor.png) 
 ### -Teletype that allows you to share on git
 ### -Atom is based Linux/Windows/Mac
 ### -support for plug-ins written in Node.js, and embedded Git Control
