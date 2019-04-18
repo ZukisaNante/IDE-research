@@ -9,6 +9,12 @@ file:![image](///home/junior/Desktop/BeCode_Cls_project/markdown-warm-up/New/ind
 
 # Here we will discuss a few of the IDEs you can find for web development
 
+| HTML        | CSS         | JavaScript |
+| ------------- |:-------------:| -----:|
+| vs code     | vs code | vs code |
+| Atom     | Atom      |   brackets |
+| Brackets |Brackets      |    Atom |
+
 # 1. PhpStorm
 ### -Crossplatform (Linux, Mac OS, Linux/Ubuntu)
 ### -Editor for HTML5, JavaScript and PHP
