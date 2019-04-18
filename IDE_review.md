@@ -40,5 +40,5 @@ file:![image](///home/junior/Desktop/BeCode_Cls_project/markdown-warm-up/New/ind
 ## Our conlusion here is based on the information provided and it highlights the pros and cons of the above IDEs.
 ### VS code will be seleceted as the best to use as a beginner. 
 ### Visual Studio Code could be very useful for those who are new in programming as it can be used as an excellent learning tool which explains you everything right from the simple HTML tag to syntax and error handling in programming.
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+@ZukisaNante :+1:This is how we do it! :shipit::smile:
 
