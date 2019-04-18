@@ -29,7 +29,8 @@ file:![image](///home/junior/Desktop/BeCode_Cls_project/markdown-warm-up/New/ind
 ### c. Real Time Updates (without reloading)
 ### d. PSD lens: exctracts pictures wihtout the need of Photoshop
 
-# 4. Atom ![Atom](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Atom-editor.png/300px-Atom-editor.png) 
+# 4. Atom 
+![Atom](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Atom-editor.png/300px-Atom-editor.png) 
 ### -Teletype that allows you to share on git
 ### -Atom is based Linux/Windows/Mac
 ### -support for plug-ins written in Node.js, and embedded Git Control
