@@ -45,9 +45,10 @@ file:![image](///home/junior/Desktop/BeCode_Cls_project/markdown-warm-up/New/ind
 # 5. Conlusion
 ## - Our conlusion here is based on the information provided and it highlights the pros and cons of the above IDEs.
 ### - VS code will be seleceted as the best to use as a beginner.
-### -  **bold** VS code can be downloaded here: https://code.visualstudio.com/download
+### - **VS code can be downloaded here:** *https://code.visualstudio.com/download*
 ### - Visual Studio Code could be very useful for those who are new in programming as it can be used as an excellent learning tool which explains you everything right from the simple HTML tag to syntax and error handling in programming.
 ### -Cons: Being based in Electron, VS Code may be slow to start (depending on the loaded plugins) or be slow with big files. Takes up a lot of memory.
 
 ### @ZukisaNante :+1:This is how we do it! :smile:
+``` Yeah we made it and now it is time to program some code!
 
